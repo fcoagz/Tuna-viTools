@@ -104,7 +104,7 @@ goto 1p
 
 :4p
 echo.
-echo Tuna-viTools - version 0.1 - created by Francisco Griman - https://github.com/fcoagz
+echo Tuna-viTools - version 0.2 - created by Francisco Griman - https://github.com/fcoagz
 pause> nul 
 goto 1p
 
